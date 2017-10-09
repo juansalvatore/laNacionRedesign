@@ -4,7 +4,7 @@
       <!-- <h1>LA NACION</h1> -->
       <img class="laNacion" src="images/title.png" alt="La Nacion">
       <div class="fecha-temperatura">
-        <p class="fecha">sabado 7 de octubre de 2017 |</p>
+        <p class="fecha">Sabado 7 de octubre de 2017 |</p>
         <img class="icono-clima" src="" alt="">
         <p class="temperatura"> | 18ºC</p>
       </div>
