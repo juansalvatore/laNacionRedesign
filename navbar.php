@@ -1,7 +1,8 @@
 <header>
   <div class="nav-top">
     <div class="titulo">
-      <h1>LA NACION</h1>
+      <!-- <h1>LA NACION</h1> -->
+      <img class="laNacion" src="images/title.png" alt="La Nacion">
       <div class="fecha-temperatura">
         <p class="fecha">sabado 7 de octubre de 2017 |</p>
         <img class="icono-clima" src="" alt="">
