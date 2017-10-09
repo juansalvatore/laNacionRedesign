@@ -1,0 +1,83 @@
+
+
+$titulo-principal: 60px
+
+*
+  boxsizing: borderbox
+
+body
+  padding: 0
+  margin: 0
+
+html
+  padding: 0
+
+a
+  text-decoration: none
+  color: #121212
+  font-family: helvetica
+
+header
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15)
+
+.nav-top
+  text-align: center
+  display: flex
+  justify-content: center
+  align-items: center
+  height: 110px
+
+  .titulo
+    width: 400px
+
+    h1
+      margin:
+        bottom: 0px
+        top: 0px
+      color: #0D6797
+      font-size: $titulo-principal
+      font-style: platino
+
+    .fecha-temperatura
+      p
+        margin:
+          top: 1px
+          bottom: 0
+        font:
+          family: helvetica
+          size: 11px
+        color: #545454
+
+    .fecha-temperatura
+      display: flex
+      justify-content: center
+      text-align: center
+
+  .btn-ingresar-subscribete
+    position: absolute
+    right: 40px
+    font-size: 12px
+
+    .ingresar
+
+    .subscribete
+      margin-left: 10px
+      color: #3687D9
+
+.nav-bottom
+  display: flex
+  justify-content: center
+  align-items: center
+  font:
+    weight: 400
+    size: 13px
+  height: 35px
+  border:
+    top: 1px solid rgba(3,46,69,0.30)
+    bottom: 1px solid rgba(3,46,69,0.30)
+
+  a
+    margin-left: 35px
+
+  a:first-child
+    margin-left: 0px

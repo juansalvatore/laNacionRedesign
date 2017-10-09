@@ -2,10 +2,10 @@
   <div class="nav-top">
     <div class="titulo">
       <h1>LA NACION</h1>
-      <p class="fecha"></p>
-      <div class="clima">
+      <div class="fecha-temperatura">
+        <p class="fecha">sabado 7 de octubre de 2017 |</p>
         <img class="icono-clima" src="" alt="">
-        <p class="temperatura"></p>
+        <p class="temperatura"> | 18ºC</p>
       </div>
     </div>
     <div class="btn-ingresar-subscribete">
@@ -19,7 +19,7 @@
     <a class="actualidad" href="#">Actualidad</a>
     <a class="negocios" href="#">Negocios</a>
     <a class="deportes" href="#">Deportes</a>
-    <a class="vida-ocio" href="#">Vida&ocio</a>
+    <a class="vida-ocio" href="#">Vida & Ocio</a>
     <a class="ideas" href="#">Ideas</a>
     <a class="espectaculos" href="#">Espectaculos</a>
     <a class="dolar-hoy" href="#">Dolar Hoy</a>
