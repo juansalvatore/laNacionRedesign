@@ -1,7 +1,7 @@
 <div class="section-two">
   <div class="container">
     <!-- First News Block -->
-    <div class="news-container">
+    <div class="news-container first">
       <img src="images/news-picture.png" alt="picture">
       <div class="text-box">
         <a class="fecha-noticia" href="#">DOMINGO  04  DE  JUNIO  DE  2017</a>
